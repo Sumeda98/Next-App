@@ -6,7 +6,7 @@ import AddToCard from './AddToCard';
 const ProductCard = () => {
     return (
         // <div className={styles.cardContainer}>
-        <div className='p-5 bg-sky-500 text-white text-xl hover:bg-sky-600'>
+        <div>
             <AddToCard />
         </div>
         // </div>
